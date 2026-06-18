@@ -44,7 +44,7 @@ export default function HermitHanaPage() {
                 <br />
                 WITH
                 <br />
-                HERMIT HANA
+                HERMIT 
               </h1>
 
               <p className="text-2xl text-zinc-300 leading-relaxed mb-10">
@@ -54,7 +54,7 @@ export default function HermitHanaPage() {
               <div className="flex gap-4 mb-12">
 
                 <a
-                  href="/music/hermit-Hana.pdf"
+                  href="/music/hermit-hana.pdf"
                   target="_blank"
                   className="
                   bg-white
