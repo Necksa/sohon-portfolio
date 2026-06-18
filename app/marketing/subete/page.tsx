@@ -171,7 +171,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/marketing/subete-brand.jpg"
+              src="/Marketing/subete-brand.jpg"
               alt="Brand Guidelines"
               width={1400}
               height={800}

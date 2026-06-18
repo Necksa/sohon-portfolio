@@ -37,7 +37,7 @@ const rows = [
 
     {
       title: "Amadeus Cafe",
-      image: "/marketing/thumbnails/amadeus.jpg",
+      image: "/Marketing/thumbnails/amadeus.jpg",
       href: "/marketing/amadeus",
     },
   ],
@@ -47,19 +47,19 @@ const rows = [
   projects: [
     {
       title: "Google Search Console",
-      image: "/marketing/seo-web/search-console.jpg",
+      image: "/Marketing/seo-web/search-console.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Screaming Frog",
-      image: "/marketing/seo-web/screaming-frog.jpg",
+      image: "/Marketing/seo-web/screaming-frog.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Semrush",
-      image: "/marketing/seo-web/semrush.jpg",
+      image: "/Marketing/seo-web/semrush.jpg",
       href: "/seo-web",
     },
 
