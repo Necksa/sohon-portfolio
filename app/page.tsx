@@ -35,8 +35,8 @@ export default function Home() {
     },
     {
       name: "Experimental",
-      link: "https://res.cloudinary.com/ddo30drp4/image/upload/v1781771024/Rick_lylofk.png",
-      image: "https://res.cloudinary.com/ddo30drp4/image/upload/v1781771024/Rick_lylofk.png",
+      link: "/experimental",
+      image: "marketing/thumbnails/rick.png",
     },
   ];
 
