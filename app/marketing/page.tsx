@@ -44,14 +44,14 @@ const rows = [
 
     {
       title: "Peritys",
-      image: "/marketing/thumbnails/peritys.png",
-      href: "/marketing/peritys",
+      image: "/Marketing/Thumbnails/peritys.png",
+      href: "/Marketing/peritys",
     },
 
     {
       title: "Gananoque Nursery School",
       image: "/Marketing/gananoque.png",
-      href: "/marketing/gananoque",
+      href: "/Marketing/gananoque",
     },
   ],
 },
