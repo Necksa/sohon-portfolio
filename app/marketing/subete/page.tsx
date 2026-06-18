@@ -196,7 +196,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/marketing/subete-persona.jpg"
+              src="/Marketing/subete-persona.jpg"
               alt="Buyer Persona"
               width={1400}
               height={800}
@@ -220,7 +220,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/marketing/subete-competitors.jpg"
+              src="/Marketing/subete-competitors.jpg"
               alt="Competitor Analysis"
               width={1400}
               height={800}
@@ -245,7 +245,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/marketing/subete-seo.jpg"
+              src="/Marketing/subete-seo.jpg"
               alt="SEO Strategy"
               width={1400}
               height={800}
