@@ -20,32 +20,32 @@ const rows = [
   projects: [
     {
       title: "Queen's University",
-      image: "/marketing/thumbnails/queens.png",
+      image: "/Marketing/Thumbnails/queens.png",
       href: "/marketing/queens",
     },
 
     {
       title: "Mercury Bar and Lounge",
-      image: "/marketing/thumbnails/mercury.png",
+      image: "/Marketing/Thumbnails/mercury.png",
       href: "/marketing/mercury",
     },
 
     {
       title: "Subete",
-      image: "/marketing/thumbnails/subete.png",
+      image: "/Marketing/Thumbnails/subete.png",
       href: "/marketing/subete",
     },
 
     {
       title: "Interacts.ai",
-      image: "/marketing/thumbnails/interacts.ai.png",
+      image: "/Marketing/Thumbnails/interacts.ai.png",
       href: "/marketing/interacts",
     },
 
     {
       title: "Peritys",
       image: "/Marketing/Thumbnails/peritys.png",
-      href: "/Marketing/peritys",
+      href: "/marketing/peritys",
     },
 
     {
