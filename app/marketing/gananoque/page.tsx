@@ -21,7 +21,7 @@ export default function GananoquePage() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/marketing/gananoque.mp4"
+            src="/Marketing/gananoque.mp4"
             type="video/mp4"
           />
         </video>

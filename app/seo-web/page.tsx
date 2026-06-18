@@ -121,7 +121,7 @@ export default function Marketing() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/marketing/queens.mp4"
+            src="/Marketing/queens.mp4"
             type="video/mp4"
           />
         </video>

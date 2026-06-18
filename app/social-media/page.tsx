@@ -108,7 +108,7 @@ export default function SocialMediaPage() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/marketing/social.mp4"
+            src="/Marketing/social.mp4"
             type="video/mp4"
           />
         </video>

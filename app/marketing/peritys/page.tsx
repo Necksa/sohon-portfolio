@@ -21,7 +21,7 @@ export default function PeritysPage() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/marketing/peritys.mp4"
+            src="/Marketing/peritys.mp4"
             type="video/mp4"
           />
         </video>

@@ -21,7 +21,7 @@ export default function SubetePage() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="/marketing/subete.mp4" type="video/mp4" />
+          <source src="/Marketing/subete.mp4" type="video/mp4" />
         </video>
 
         <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-transparent" />
