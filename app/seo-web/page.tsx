@@ -37,7 +37,7 @@ const rows = [
 
     {
       title: "Amadeus Cafe",
-      image: "/Marketing/thumbnails/amadeus.jpg",
+      image: "/marketing/thumbnails/amadeus.jpg",
       href: "/marketing/amadeus",
     },
   ],
@@ -47,25 +47,25 @@ const rows = [
   projects: [
     {
       title: "Google Search Console",
-      image: "/Marketing/seo-web/search-console.jpg",
+      image: "/marketing/seo-web/search-console.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Screaming Frog",
-      image: "/Marketing/seo-web/screaming-frog.jpg",
+      image: "/marketing/seo-web/screaming-frog.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Semrush",
-      image: "/Marketing/seo-web/semrush.jpg",
+      image: "/marketing/seo-web/semrush.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Ahrefs",
-      image: "/Marketing/seo-web/ahrefs.jpg",
+      image: "/marketing/seo-web/ahrefs.jpg",
       href: "/seo-web",
     },
   ],
@@ -121,7 +121,7 @@ export default function Marketing() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/Marketing/queens.mp4"
+            src="/marketing/queens.mp4"
             type="video/mp4"
           />
         </video>

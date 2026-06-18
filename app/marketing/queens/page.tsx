@@ -26,7 +26,7 @@ export default function QueensPage() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/Marketing/queens.mp4"
+            src="/marketing/queens.mp4"
             type="video/mp4"
           />
         </video>

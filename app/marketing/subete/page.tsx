@@ -21,7 +21,7 @@ export default function SubetePage() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src="/Marketing/subete.mp4" type="video/mp4" />
+          <source src="/marketing/subete.mp4" type="video/mp4" />
         </video>
 
         <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-transparent" />
@@ -171,7 +171,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/Marketing/subete-brand.jpg"
+              src="/marketing/subete-brand.jpg"
               alt="Brand Guidelines"
               width={1400}
               height={800}
@@ -196,7 +196,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/Marketing/subete-persona.jpg"
+              src="/marketing/subete-persona.jpg"
               alt="Buyer Persona"
               width={1400}
               height={800}
@@ -220,7 +220,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/Marketing/subete-competitors.jpg"
+              src="/marketing/subete-competitors.jpg"
               alt="Competitor Analysis"
               width={1400}
               height={800}
@@ -245,7 +245,7 @@ hover:shadow-[0_0_40px_rgba(229,9,20,0.25)]
           <div>
 
             <Image
-              src="/Marketing/subete-seo.jpg"
+              src="/marketing/subete-seo.jpg"
               alt="SEO Strategy"
               width={1400}
               height={800}

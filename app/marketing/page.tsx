@@ -20,38 +20,38 @@ const rows = [
   projects: [
     {
       title: "Queen's University",
-      image: "/Marketing/Thumbnails/queens.png",
+      image: "/marketing/thumbnails/queens.png",
       href: "/marketing/queens",
     },
 
     {
       title: "Mercury Bar and Lounge",
-      image: "/Marketing/Thumbnails/mercury.png",
+      image: "/marketing/thumbnails/mercury.png",
       href: "/marketing/mercury",
     },
 
     {
       title: "Subete",
-      image: "/Marketing/Thumbnails/subete.png",
+      image: "/marketing/thumbnails/subete.png",
       href: "/marketing/subete",
     },
 
     {
       title: "Interacts.ai",
-      image: "/Marketing/Thumbnails/interacts.ai.png",
+      image: "/marketing/thumbnails/interacts.ai.png",
       href: "/marketing/interacts",
     },
 
     {
       title: "Peritys",
-      image: "/Marketing/Thumbnails/peritys.png",
+      image: "/marketing/thumbnails/peritys.png",
       href: "/marketing/peritys",
     },
 
     {
       title: "Gananoque Nursery School",
-      image: "/Marketing/gananoque.png",
-      href: "/Marketing/gananoque",
+      image: "/marketing/thumbnails/gananoque.png",
+      href: "/marketing/gananoque",
     },
   ],
 },
@@ -214,7 +214,7 @@ export default function Marketing()
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/Marketing/queens.mp4"
+            src="/marketing/queens.mp4"
             type="video/mp4"
           />
         </video>
