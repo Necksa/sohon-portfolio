@@ -36,7 +36,7 @@ export default function Home() {
     {
       name: "Experimental",
       link: "/experimental",
-      image: "/profiles/Rick.png",
+      image: "/profiles/Sherlock.png",
     },
   ];
 
