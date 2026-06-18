@@ -50,7 +50,7 @@ const rows = [
 
     {
       title: "Gananoque Nursery School",
-      image: "/marketing/thumbnails/gananoque.png",
+      image: "/marketing/gananoque.png",
       href: "/marketing/gananoque",
     },
   ],
