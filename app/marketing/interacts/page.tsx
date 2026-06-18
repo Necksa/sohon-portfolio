@@ -21,7 +21,7 @@ export default function InteractsPage() {
           className="absolute inset-0 w-full h-full object-cover"
         >
           <source
-            src="/Marketing/interacts.mp4"
+            src="/marketing/interacts.mp4"
             type="video/mp4"
           />
         </video>
