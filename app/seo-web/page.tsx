@@ -47,19 +47,19 @@ const rows = [
   projects: [
     {
       title: "Google Search Console",
-      image: "/Marketing/seo-web/search-console.jpg",
+      image: "/marketing/seo-web/search-console.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Screaming Frog",
-      image: "/Marketing/seo-web/screaming-frog.jpg",
+      image: "/marketing/seo-web/screaming-frog.jpg",
       href: "/seo-web",
     },
 
     {
       title: "Semrush",
-      image: "/Marketing/seo-web/semrush.jpg",
+      image: "/marketing/seo-web/semrush.jpg",
       href: "/seo-web",
     },
 
