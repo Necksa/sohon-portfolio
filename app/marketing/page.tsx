@@ -91,7 +91,7 @@ const rows = [
 
     {
       title: "PR Marketing",
-      image: "/marketing/thumbnails/pr.jpg",
+      image: "/marketing/thumbnails/shobitam.jpg",
       href: "/marketing/pr",
     },
   ],
