@@ -56,7 +56,7 @@ export default function Home() {
 </div>
 
       <h2 className="text-6xl font-normal mb-16 text-[#ffffff]">
-        Who's Watching
+        Who's Watching?
       </h2>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-x-16 gap-y-14">
