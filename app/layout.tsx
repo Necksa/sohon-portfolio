@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Bebas_Neue } from "next/font/google";
 import "./globals.css";
-import MusicPlayer from "@/components/MusicPlayer";
-import Navbar from "@/components/navbar";
+import LayoutWrapper from "@/components/LayoutWrapper";
 import { PlayerProvider } from "@/components/PlayerContext";
 
 const geistSans = Geist({
@@ -38,13 +37,9 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
 
 <PlayerProvider>
-
-  <Navbar />
-
-  {children}
-
-  <MusicPlayer />
-
+  <LayoutWrapper>
+    {children}
+  </LayoutWrapper>
 </PlayerProvider>
 
 </body>
