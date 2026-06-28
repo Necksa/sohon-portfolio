@@ -41,8 +41,8 @@ export default function Home() {
   ];
 
   return (
-    <main className="min-h-screen bg-[#141414] text-white flex flex-col items-center justify-center px-6 relative">
-      <div className="absolute top-5 left-12">
+    <main className="min-h-screen bg-[#141414] text-white flex flex-col items-center justify-center px-4 sm:px-6 md:px-8 relative">
+      <div className="absolute top-4 left-4 sm:top-5 sm:left-8 md:left-12">
   <Link href="/">
   <Image
     src="/logo.png"
@@ -50,31 +50,51 @@ export default function Home() {
     width={110}
     height={40}
     priority
-    className="cursor-pointer"
+    className="w-20 sm:w-24 md:w-28 h-auto cursor-pointer"
   />
 </Link>
 </div>
 
-      <h2 className="text-6xl font-normal mb-16 text-[#ffffff]">
+      <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-normal mb-8 md:mb-16 text-white text-center">
         Who's Watching?
       </h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-x-16 gap-y-14">
+      <div className="grid
+grid-cols-2
+sm:grid-cols-2
+md:grid-cols-3
+lg:grid-cols-4
+gap-6
+md:gap-10
+lg:gap-14">
   {profiles.map((profile) => (
     <Link
       href={profile.link}
       key={profile.name}
       className="group flex flex-col items-center gap-3 transition-all duration-300 hover:scale-110"
+      
     >
       <Image
         src={profile.image}
         alt={profile.name}
         width={190}
         height={190}
-        className="rounded-md border-2 border-transparent hover:border-white transition-all duration-300"
+        className="
+w-28
+sm:w-36
+md:w-40
+lg:w-48
+h-auto
+rounded-md
+border-2
+border-transparent
+group-hover:border-white
+transition-all
+duration-300
+"
       />
 
-      <span className="text-[#808080] text-xl group-hover:text-white transition-all duration-300">
+      <span className="text-[#808080] text-sm sm:text-base md:text-lg lg:text-xl group-hover:text-white transition-all duration-300">
         {profile.name}
       </span>
     </Link>
